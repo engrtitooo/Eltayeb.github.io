@@ -1,32 +1,49 @@
-### Eltayeb Mohammed · he/him  
-Senior Mechanical Engineer | Fintech Innovator
+<div align="center">
+  <h1>Eltayeb Mohammed</h1>
+  <h3>Senior Mechanical Engineer | Fintech Innovator</h3>
+  <p><i>"Engineering trust, building financial inclusion."</i></p>
 
-> "Engineering trust, building financial inclusion."
-
-**Founder @SpinFund** | Sr. Engineer & Project Manager  
-Focused on Engineering, Technology, AI, and Fintech Innovation  
-[GitHub](https://github.com/engrtitooo) • [LinkedIn](https://www.linkedin.com/in/eltayeb-mohammed-32435031) • [X](https://x.com/engrtitooo)
-
----
-
-### About Me
-
-Hello, I’m [@engrtitooo](https://github.com/engrtitooo). I’m the founder of **SpinFund**, a fintech platform focused on cooperative savings and Sharia-compliant lending, designed to empower underserved and immigrant communities in the U.S. and beyond.
-
-With over 18 years of experience in mechanical engineering and project management, I currently serve as a **Senior Mechanical Engineer at Metra**, Chicago’s commuter rail system, where I manage complex infrastructure upgrades across HVAC and MEP systems.
-
-I bring engineering precision and systems thinking into the fintech space—building ethical, AI-driven financial tools that promote transparency, trust, and financial well-being.
+  <a href="https://github.com/engrtitooo">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/eltayeb-mohammed-32435031">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/engrtitooo">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+</div>
 
 ---
 
-### Current Focus
+### 👨‍💻 About Me
 
-- Launching SpinFund MVP  
-- Fintech innovation with ethical finance  
-- AI integration for smarter group savings  
-- Passionate about AI applications and innovation across industries  
+Hello! I’m **Eltayeb**, a Senior Mechanical Engineer and the Founder of **SpinFund**. I blend 18+ years of engineering precision with a passion for fintech innovation. My mission is to build ethical, AI-driven financial tools that promote transparency, trust, and financial well-being.
+
+### 🚀 Entrepreneurial Ventures
+
+**Founder @ SpinFund**
+*A fintech platform focused on cooperative savings and Sharia-compliant lending.*
+- Empowering underserved communities.
+- Innovating with AI for smarter group savings.
+- Focused on ethical finance and financial inclusion.
+
+### 🛠 Professional Experience
+
+**Senior Mechanical Engineer @ Metra**
+*Chicago’s Commuter Rail System*
+- Managing complex engineering projects.
+- Applying systems thinking to large-scale infrastructure.
+- Ensuring reliability and safety in transit systems.
+
+### 🎯 Current Focus
+
+- 🚀 Launching the **SpinFund MVP**.
+- 💡 Exploring **AI applications** across industries.
+- 🤝 Advocating for **Ethical Finance**.
 
 ---
 
-Let’s connect, collaborate, or exchange ideas.  
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/eltayeb-mohammed-32435031) or [X](https://x.com/engrtitooo).
+<div align="center">
+  <p>Let’s connect, collaborate, or exchange ideas.</p>
+</div>
