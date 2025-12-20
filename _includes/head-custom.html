@@ -1,10 +1,17 @@
-<!-- Font Awesome 6 Integration for X Logo -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
-
+<!-- Custom CSS for X Logo (SVG replacement) -->
 <style>
-/* Force Font Awesome 6 for Brands to ensure X logo works in sidebar */
-.fab {
-  font-family: "Font Awesome 6 Brands", "Font Awesome 5 Brands" !important;
+/* SVG replacement for X logo to avoid Font Awesome version conflicts */
+.fa-x-twitter::before {
+  content: "";
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  vertical-align: -0.15em;
+  background-color: currentColor;
+  -webkit-mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Cpath d='M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8L200.7 275.5 26.8 48H172.4L272.9 180.9 389.2 48zM364.4 421.8h39.1L151.1 88h-42L364.4 421.8z'/%3E%3C/svg%3E") no-repeat center;
+  mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Cpath d='M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8L200.7 275.5 26.8 48H172.4L272.9 180.9 389.2 48zM364.4 421.8h39.1L151.1 88h-42L364.4 421.8z'/%3E%3C/svg%3E") no-repeat center;
+  -webkit-mask-size: contain;
+  mask-size: contain;
 }
 
 /* Fix for SVG in icon row */
@@ -13,12 +20,6 @@
   height: 1em;
   fill: currentColor;
   display: block;
-}
-
-/* Specific fix for X logo in sidebar */
-.fa-x-twitter::before {
-  content: "\e61b";
-  font-family: "Font Awesome 6 Brands" !important;
 }
 
 /* =============================================
