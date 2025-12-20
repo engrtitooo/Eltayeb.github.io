@@ -1,0 +1,47 @@
+title: Eltayeb Mohammed
+description: Senior Mechanical Engineer · Fintech Founder
+url: "https://engrtitooo.github.io"
+baseurl: ""
+
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "dark"   # try: "default", "air", "contrast", "dark"
+
+plugins:
+  - jekyll-include-cache
+  - jekyll-sitemap
+  - jekyll-feed
+
+author:
+  name: "Eltayeb Mohammed"
+  avatar: "/assets/images/avatar.png"   # optional
+  bio: "Senior Mechanical Engineer · Fintech Founder"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/engrtitooo"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/eltayeb-mohammed-32435031"
+    - label: "X"
+      icon: "fab fa-x-twitter"
+      url: "https://x.com/engrtitooo"
+
+# Top navigation
+header_pages:
+  - index.md
+  - about.md
+  - apps.md
+  - projects.md
+  - contact.md
+
+# Defaults for pages
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+# Make URLs clean
+permalink: pretty
