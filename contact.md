@@ -60,5 +60,5 @@ author_profile: true
 
 <div class="info-card">
   <h3>📍 Location</h3>
-  <p>Based in <strong>Chicago, IL</strong>. Available for remote collaboration worldwide.</p>
+  <p>Based in <strong>Chicago, IL</strong>.
 </div>
