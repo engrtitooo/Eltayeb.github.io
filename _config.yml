@@ -1,10 +1,10 @@
 title: Eltayeb Mohammed
-description: Senior Mechanical Engineer · Fintech Founder
+description: Senior Mechanical Engineer · Fintech Founder · Building reliable systems in infrastructure and fintech.
 url: "https://engrtitooo.github.io"
 baseurl: ""
 
 remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "dark"   # try: "default", "air", "contrast", "dark"
+minimal_mistakes_skin: "air"   # "air" is clean, professional, and readable
 
 plugins:
   - jekyll-include-cache
@@ -13,18 +13,22 @@ plugins:
 
 author:
   name: "Eltayeb Mohammed"
-  avatar: "/assets/images/avatar.png"   # optional
+  avatar: "/assets/images/avatar.png"
   bio: "Senior Mechanical Engineer · Fintech Founder"
+  location: "Chicago, IL"
   links:
     - label: "GitHub"
-      icon: "fab fa-github"
+      icon: "fab fa-fw fa-github"
       url: "https://github.com/engrtitooo"
     - label: "LinkedIn"
-      icon: "fab fa-linkedin"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/eltayeb-mohammed-32435031"
     - label: "X"
-      icon: "fab fa-x-twitter"
+      icon: "fab fa-fw fa-x-twitter"
       url: "https://x.com/engrtitooo"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:eaeltayb@gmail.com"
 
 # Top navigation
 header_pages:
