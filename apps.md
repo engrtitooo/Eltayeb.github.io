@@ -93,4 +93,21 @@ author_profile: true
   </div>
 </div>
 
+<div class="project-card">
+  <p class="card-tagline">AI · Education · Voice</p>
+  <h3>TimeDial</h3>
+  <p>Immersive history teacher that lets you have real-time voice conversations with historical figures like Einstein and Cleopatra.</p>
+  <p><strong>Capabilities:</strong></p>
+  <ul>
+    <li>Real-time voice conversations with AI personas</li>
+    <li>Powered by Gemini + ElevenLabs voice synthesis</li>
+    <li>Fact-checked historical accuracy</li>
+  </ul>
+  <p class="card-note">Built for the AI Partner Catalyst Hackathon.</p>
+  <div class="card-links">
+    <a href="https://timedial-app-456115331802.us-central1.run.app/" target="_blank" rel="noopener" class="btn btn--primary btn--small">View Live</a>
+    <a href="https://github.com/engrtitooo/TimeDial" target="_blank" rel="noopener" class="btn btn--small">GitHub</a>
+  </div>
+</div>
+
 </div>
